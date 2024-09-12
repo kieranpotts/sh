@@ -4,6 +4,11 @@ This repository is just an archive if random shell scripts that I've written
 over the years. They're not meant to be used as-is. Rather, they serve as a
 reference for how to do certain things in shell scripts.
 
+Most of the scripts are written in Bash (`#!/bin/bash`) but some are POSIX
+compliant (`#!/bin/sh`). These scripts are typically used for provisioning
+and configuring Debian-based servers, and for performing system administration
+tasks.
+
 ''''
 
 Copyright © 2020-present Kieran Potts, link:./LICENSE.txt[MIT license]
